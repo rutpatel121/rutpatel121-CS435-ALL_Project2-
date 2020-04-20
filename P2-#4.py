@@ -5,7 +5,6 @@ from collections import deque
 
 class DirectedGraph():
 
-
     def __init__(self):
         #""" initializes a graph object and create a dictionary"""
         self.graph_dict = {}
